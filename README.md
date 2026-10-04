@@ -1,4 +1,4 @@
-##Diego Magana ---------------------------------
+# Diego Magana
 
 
 
